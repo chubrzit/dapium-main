@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>DAPiUM</title>
+  <rect x="4" y="5" width="50" height="50" rx="19" fill="#d7f064" stroke="#171917" stroke-width="3" />
+  <path d="M22 18v28h9c10 0 15-5 15-14s-5-14-15-14h-9Zm7 6h2c5.4 0 8 2.4 8 8s-2.6 8-8 8h-2V24Z" fill="#171917" />
+  <circle cx="55" cy="9" r="4" fill="#8cae24" />
+</svg>
